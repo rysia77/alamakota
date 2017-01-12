@@ -19,5 +19,4 @@ asdasdasdas
 asdasdasdasdasdas
 
 Aloha!
-
-Kot ma Ale
+----- usunęłam Kot ma Ale
